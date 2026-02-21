@@ -81,7 +81,7 @@ A notable trend is that 100% of these top-paying roles are listed with a locatio
 
 💡
 
-![Top Paying Roles](assets\Code_Generated_Image.PNG)
+![Top Paying Roles](assets\CodeGeneratedImage.PNG)
 
 **Bar graph visualizing the salaries for the top 10 high paying job roles for data scientists;Gemini generated this graph from my SQL query result**
 
