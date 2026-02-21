@@ -5,7 +5,7 @@ Uncovering the landscape of the Data Science job market. This project dives deep
 # Background 
 This project originated from a need to decode the complexities of the data science career landscape. The goal is to identify the intersection of high-paying roles and the most sought-after data science competencies—from statistical modeling to deep learning—to help others find their optimal career path.
 
-The dataset is sourced from [Luke Barousse's SQL Course](/lukebarousse.com/sql), providing a comprehensive foundation of job titles, compensation, and geographic trends.
+The dataset is sourced from [Luke Barousse's SQL Course](https://lukebarousse.com/sql), providing a comprehensive foundation of job titles, compensation, and geographic trends.
 
 ## The questions I wanted to answer through my SQL Queries were:
 1. What are the top paying data scientist jobs?
