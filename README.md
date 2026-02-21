@@ -81,7 +81,8 @@ A notable trend is that 100% of these top-paying roles are listed with a locatio
 
 💡
 
-![Top Paying Roles](project_sql\assets\Code_Generated_Image.png)
+![Top Paying Roles](assets\Code_Generated_Image.PNG)
+
 **Bar graph visualizing the salaries for the top 10 high paying job roles for data scientists;Gemini generated this graph from my SQL query result**
 
 ## 2. Skills Required for Top Paying Data Scientist Job Roles
@@ -164,13 +165,13 @@ While Python and SQL are common, certain specialized technologies appear in role
 **The following charts visualize these trends:**
 
 💡
-![Top 10 most Demanded Skills in top paying Remote Data scientist roles](project_sql\assets\skilltrend1.png)
+![Top 10 most Demanded Skills in top paying Remote Data scientist roles](assets\skilltrend1.PNG)
 This Chart shows us the most demanded skills required in top paying remote data scientist roles with **Python** leading the chart followed by **SQL**
 
 
 
 💡
-![Top 10 highest paying skills(average salary)](project_sql\assets\skilltrend2.png)
+![Top 10 highest paying skills(average salary)](assets\skilltrend2.PNG)
 This second chart visualizes the Skills with the high average salaries.  **SQL** leads this chart, followed by **TABLEAU**
 
 | Rank | Skill | Average Salary |
