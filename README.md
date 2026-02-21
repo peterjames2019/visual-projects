@@ -80,6 +80,7 @@ Two companies appear multiple times in the top 10 list, marking them as signific
 A notable trend is that 100% of these top-paying roles are listed with a location of "Anywhere" and a schedule of "Full-time." This confirms that the highest-tier compensation in data science is fully accessible to remote workers, likely because companies are willing to hire globally to secure top-tier talent.
 
 💡
+
 ![Top Paying Roles](project_sql\assets\Code_Generated_Image.png)
 **Bar graph visualizing the salaries for the top 10 high paying job roles for data scientists;Gemini generated this graph from my SQL query result**
 
